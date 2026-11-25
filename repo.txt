@@ -1,0 +1,8 @@
+INFORMASI REPOSITORI
+NAMA PROJECT: Latihan-JS-Website
+Bahasa Pemrograman:
+- HTML
+- CSS
+- JavaScript
+Repository GitHub:
+https://github.com/DionBK-creator/Latihan-JS-Website.git
